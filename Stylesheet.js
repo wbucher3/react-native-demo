@@ -20,6 +20,11 @@ const styles = StyleSheet.create({
         fontSize: 20,
         color: 'white',
 
+    },
+    image: {
+        flex: 1,
+        width: 500,
+        height: 500
     }
 });
 
