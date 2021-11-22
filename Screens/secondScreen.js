@@ -21,10 +21,10 @@ const secondScreen = ( {route, navigation }) => {
     //     </Text>
 
     //     <TouchableOpacity
-    //     style={styles.button}
     //     onPress={() => setCount(currentCount => currentCount +1)}
     //     >
-    //       <Text style={styles.buttonText}>Click me!</Text>
+
+    //       <Image style={styles.image} source={require('../images/cookie.png')} />
     //     </TouchableOpacity>
 
     //     <TouchableOpacity
@@ -52,7 +52,7 @@ const secondScreen = ( {route, navigation }) => {
     //     style={styles.button}
     //     onPress={() => setCount(currentCount => currentCount +1)}
     //     >
-    //       <Text style={styles.buttonText}>Click me!</Text>
+    //       <Image style={styles.image} source={require('../images/cookie.png')} />
     //     </TouchableOpacity>
 
     //     <TouchableOpacity

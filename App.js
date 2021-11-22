@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Stylesheet.js'; 
-import { Text, View, TouchableOpacity } from 'react-native';
+import { Text, View, TouchableOpacity, Image} from 'react-native';
 
 // Here is a basic react native app! this is the set up when you init in expo!
 ///////////////////////////////////////////////////////
@@ -22,9 +22,10 @@ export default function App() {
 
 //       <TouchableOpacity
 //         style={styles.button}
-//         onPress={() => console.log("I was clicked!")}
+//         onPress={() =>  console.log("I was clicked")} 
 //       >
 //         <Text style={styles.buttonText}>Begin</Text>
+
 //       </TouchableOpacity>
 
 //     </View>
